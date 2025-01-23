@@ -33,7 +33,7 @@ Module.register("MMM-uptimerobot", {
   },
 
   getStyles: function () {
-    return ['uptimerobot.css', 'modules/uptimerobot/css/font-awesome.css'];
+    return ['MMM-uptimerobot.css', 'modules/uptimerobot/css/font-awesome.css'];
   },
 
   getData: function () {
