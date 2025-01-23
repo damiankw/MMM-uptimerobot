@@ -1,11 +1,11 @@
 /* Magic Mirror
- * Module: uptimerobot
+ * Module: MMM-uptimerobot
  *
  * By Simon Crnko
  * MIT Licensed.
  */
 
-Module.register("uptimerobot", {
+Module.register("MMM-uptimerobot", {
   defaults: {
     updateInterval: 60000,
     retryDelay: 5000,

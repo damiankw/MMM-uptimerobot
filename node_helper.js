@@ -1,5 +1,5 @@
 /* Magic Mirror
- * Node Helper: uptimerobot
+ * Node Helper: MMM-uptimerobot
  *
  * By Simon Crnko
  * MIT Licensed.

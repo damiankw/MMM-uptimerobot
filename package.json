@@ -1,5 +1,5 @@
 {
-    "name": "uptimerobot",
+    "name": "MMM-uptimerobot",
     "version": "1.2.0",
     "description": "MagicMirror module to monitor uptime of servers via https://uptimerobot.com",
     "author": "Simon Crnko",
